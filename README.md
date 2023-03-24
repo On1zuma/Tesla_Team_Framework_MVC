@@ -12,6 +12,6 @@ https://github.com/On1zuma/MVC-Tesla-Team-Framework/issues
 
 https://github.com/Tesla-App-Project/Tesla-App-Project-Repo/wiki/Framework
 
-## SET UP
+## Set up
 
 https://github.com/On1zuma/Tesla_Team_Framework_MVC/blob/main/SETUP.md
